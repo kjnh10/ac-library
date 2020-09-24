@@ -1,6 +1,6 @@
 #include <gtest/gtest.h>
 
-#include "../utils/math.hpp"
+#include "../../utils/math_test.hpp"
 #include <numeric>
 
 TEST(UtilsMathTest, FactorsTest) {

@@ -2,7 +2,7 @@
 
 #include <atcoder/internal_math>
 #include <numeric>
-#include "../utils/math.hpp"
+#include "../utils/math_test.hpp"
 
 using namespace atcoder;
 using uint = unsigned int;
